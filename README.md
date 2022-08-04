@@ -13,6 +13,9 @@ This is my very first web application try. I made a few additions to the applica
 
 ![66](https://user-images.githubusercontent.com/77192206/182786076-41107567-9c16-424a-8e74-061dbcabbb07.JPG)
 
+![77](https://user-images.githubusercontent.com/77192206/182786890-c4d77c2b-78d5-4edb-99ea-b7b74a54e8c4.JPG)
+
+
 ## DATABASE STRUCTURE
 ![1](https://user-images.githubusercontent.com/77192206/182784453-5b916ece-e59f-4b5c-8b86-fee219131c8d.JPG)
 ![2](https://user-images.githubusercontent.com/77192206/182784499-bac5e297-780a-4c36-9592-1ea9f3b26ed7.JPG)
